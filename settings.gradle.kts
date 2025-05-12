@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "Kiosk"
 include(":app")
- 
+
+include(":core")
+include(":core:module1")
+include(":core:module2")
