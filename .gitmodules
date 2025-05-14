@@ -1,3 +1,4 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/kuppusamy-m/core.git
+	branch = main
